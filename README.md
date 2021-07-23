@@ -19,6 +19,7 @@
 
 
 `**Binary Search Code**
+
 public int binarySearch(int value) {
 
 	     int lowerIndex = 0;
