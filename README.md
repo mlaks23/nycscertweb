@@ -5,7 +5,8 @@
 [Nim](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/1/Nim.java)
 
 [Game of Life](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/3/Cgol.java)
-![game of life](cgol.jpg![cgol](https://user-images.githubusercontent.com/84258308/126729807-4ee4f364-4d77-42d0-a5d1-d2bb62e11e78.jpg)
+
+![cgol](https://user-images.githubusercontent.com/84258308/126729807-4ee4f364-4d77-42d0-a5d1-d2bb62e11e78.jpg)
 
 
 
