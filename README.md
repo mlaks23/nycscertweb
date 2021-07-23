@@ -20,8 +20,7 @@
 
 **Binary Search Code**
 
-public int binarySearch(int value) {
-
+	public int binarySeary(int value) {
 	     int lowerIndex = 0;
 	     int upperIndex =  data.size() - 1;
 	     int middleIndex = data.size()/2;
