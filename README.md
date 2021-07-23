@@ -17,9 +17,9 @@
 
 [SortDemo](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/ds/sort1/SortDemo.java)
 
-**Binary Search Code**
 
-`public int binarySearch(int value) {
+`**Binary Search Code**
+public int binarySearch(int value) {
 
 	     int lowerIndex = 0;
 	     int upperIndex =  data.size() - 1;
