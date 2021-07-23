@@ -2,6 +2,8 @@
 
 ## Programming in Java
 
+**Codes for Games**
+
 [Nim](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/1/Nim.java)
 
 [Game of Life](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/3/Cgol.java)
@@ -15,6 +17,7 @@
 
 [SortDemo](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/ds/sort1/SortDemo.java)
 
+**Binary Search Code**
 `public int binarySearch(int value){
 
 	     int lowerIndex = 0;
@@ -42,6 +45,8 @@
 
 
 ## Methods 1
+
+**Sample Lesson Plans**
 
 [NetLogo Introductory Lesson](https://github.com/hunter-teacher-cert/work_csci70900-mlaks23/blob/master/meth1/05_netlogo.md)
 
